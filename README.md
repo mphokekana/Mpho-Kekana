@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/PvffOffisial) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/PvffOffisial) 
-[![LinkedIn](https://img.shilelds.io/badge/Linkedin-%0077B5.svg?logo=Linkedin&logoColor=white)](https://linkedin.com/in/mpho-kekana-063001215/) 
+[LinkedIn](https://linkedin.com/in/mpho-kekana-063001215/) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MphoKekana) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Pvff) 
 
